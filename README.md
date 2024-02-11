@@ -4,7 +4,8 @@ This MySQL script provides comprehensive insights into the Classic Models databa
 
 Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/). The database's diagram can be found below:
 
-[MySQL-Sample-Database-Diagram-PDF-A4.pdf](https://github.com/hanhatnguyendo/Classicmodels/files/14231687/MySQL-Sample-Database-Diagram-PDF-A4.pdf)
+
+![MySQL-Sample-Database-Diagram-PDF-A4-1](https://github.com/hanhatnguyendo/Classicmodels/assets/76510432/0f24ce57-565e-4c55-b118-8212c2344701)
 
 
 **Key Sections:**
