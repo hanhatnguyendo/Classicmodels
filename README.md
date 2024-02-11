@@ -1,6 +1,6 @@
 # Classicmodels
 
-This MySQL script provides comprehensive insights into the Classic Models database, focusing on key aspects such as customer behavior, employee performance, product popularity, and order trends. This file leverages SQL queries to extract meaningful information and perform various analyses, offering valuable insights for strategic decision-making and business optimization.
+This MySQL script provides comprehensive insights into the Classic Models database, focusing on key aspects such as customer behavior, employee performance, product popularity, and order trends. This file leverages SQL queries to extract meaningful information and perform various analysis, offering valuable insights for strategic decision-making and business optimization.
 
 Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/getting-started-with-mysql/mysql-sample-database/). The database's diagram can be found below:
 
