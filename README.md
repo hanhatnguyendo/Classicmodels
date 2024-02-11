@@ -35,8 +35,8 @@ Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/gettin
 
 ## Application:
 
-  Business Insights: Use the insights generated from this MySQL file to understand customer preferences, optimize employee performance, and enhance product offerings.
+  **Business Insights:** Use the insights generated from this MySQL file to understand customer preferences, optimize employee performance, and enhance product offerings.
 
-  Strategic Decision-Making: Leverage the analysis to make informed decisions related to marketing strategies, inventory management, and customer relationship management.
+  **Strategic Decision-Making:** Leverage the analysis to make informed decisions related to marketing strategies, inventory management, and customer relationship management.
 
-  Performance Monitoring: Continuously monitor customer, employee, product, and order metrics to identify opportunities for improvement and growth.
+  **Performance Monitoring:** Continuously monitor customer, employee, product, and order metrics to identify opportunities for improvement and growth.
