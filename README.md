@@ -33,7 +33,7 @@ Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/gettin
     Identify average shipping days
   
 
-**Usage:**
+**Application:**
 
   Business Insights: Use the insights generated from this MySQL file to understand customer preferences, optimize employee performance, and enhance product offerings.
 
