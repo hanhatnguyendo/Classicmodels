@@ -8,7 +8,7 @@ Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/gettin
 ![MySQL-Sample-Database-Diagram-PDF-A4-1](https://github.com/hanhatnguyendo/Classicmodels/assets/76510432/0f24ce57-565e-4c55-b118-8212c2344701)
 
 
-**Key Sections:**
+## Key Sections:
 
 **Customer Analysis:**
   
@@ -33,7 +33,7 @@ Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/gettin
     Identify average shipping days
   
 
-**Application:**
+## Application:
 
   Business Insights: Use the insights generated from this MySQL file to understand customer preferences, optimize employee performance, and enhance product offerings.
 
