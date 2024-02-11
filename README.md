@@ -10,18 +10,25 @@ Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/gettin
 **Key Sections:**
 
 **Customer Analysis:**
+  
   Identify top customers based on total spending
+  
   Analyze customer demographics
 
 **Employee Analysis:**
+
   Determine top-performing employees based on sales 
   
 **Product Analysis:**
+
   Identify best-selling products and product lines
+  
   Determine product profitability and trends in customer preferences
   
 **Order Analysis:**
+
   Calculate average order value and frequency
+  
   Identify average shipping days
   
 
