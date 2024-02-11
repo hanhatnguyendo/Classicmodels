@@ -1,4 +1,4 @@
-# Classicmodels
+# Operational Analytics for Classic Cars Retailer 
 
 This MySQL script provides comprehensive insights into the Classic Models database, focusing on key aspects such as customer behavior, employee performance, product popularity, and order trends. This file leverages SQL queries to extract meaningful information and perform various analysis, offering valuable insights for strategic decision-making and business optimization.
 
