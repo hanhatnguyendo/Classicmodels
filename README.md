@@ -29,7 +29,7 @@ Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/gettin
 
     Calculate average order value and frequency
   
-  Identify average shipping days
+    Identify average shipping days
   
 
 **Usage:**
