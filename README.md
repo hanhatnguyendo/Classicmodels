@@ -11,23 +11,23 @@ Model database sourced from MySql Tutorial (https://www.mysqltutorial.org/gettin
 
 **Customer Analysis:**
   
-  Identify top customers based on total spending
+    Identify top customers based on total spending
   
-  Analyze customer demographics
+    Analyze customer demographics
 
 **Employee Analysis:**
 
-  Determine top-performing employees based on sales 
+    Determine top-performing employees based on sales 
   
 **Product Analysis:**
 
-  Identify best-selling products and product lines
+    Identify best-selling products and product lines
   
-  Determine product profitability and trends in customer preferences
+    Determine product profitability and trends in customer preferences
   
 **Order Analysis:**
 
-  Calculate average order value and frequency
+    Calculate average order value and frequency
   
   Identify average shipping days
   
